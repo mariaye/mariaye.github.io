@@ -1,2 +1,7 @@
-site_name: My Docs
+# [Info]
+site_name: MariaYe - Jialin Ye's portfolio # 左上角标题
+site_url: https://mariaye.github.io
+site_author: Jialin Ye
+site_description: Jialin Ye's portfolio website
+
 theme: material
