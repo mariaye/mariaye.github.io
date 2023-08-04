@@ -4,4 +4,8 @@ site_url: https://mariaye.github.io
 site_author: Jialin Ye
 site_description: Jialin Ye's portfolio website
 
-theme: material
+theme:
+  name: material
+  palette:
+    - scheme: default # 日间模式
+      
