@@ -2,7 +2,7 @@
 
 ## Educational Background
 * Syracuse University 
-  - `M.Sc. in Computer Sciences` 3.95/4.0 `08/2022-now`
+  - `M.Sc. in Computer Sciences` 3.95/4.0 `08/2022-05/2025(expected)`
 * University of Chinese Academy of Social Sciences 
   - `B.A. in English Language and Literature` 3.66/4.0 `09/2017-06/2022`
 
